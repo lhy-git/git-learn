@@ -1,2 +1,3 @@
 push
 git checkout -b local_branch origin/remote_branch
+fetch
